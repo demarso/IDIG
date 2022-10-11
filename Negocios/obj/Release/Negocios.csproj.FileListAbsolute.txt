@@ -1,0 +1,27 @@
+C:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Release\Negocios.dll
+C:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Release\Negocios.pdb
+C:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Release\AcessoBancoDados.dll
+C:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Release\ObjetoTransferencia.dll
+C:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Release\AcessoBancoDados.pdb
+C:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Release\ObjetoTransferencia.pdb
+C:\Visual Studio Projetos\Projects\ibrn\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projetos\Projects\ibrn\Negocios\obj\Release\Negocios.dll
+C:\Visual Studio Projetos\Projects\ibrn\Negocios\obj\Release\Negocios.pdb
+C:\IDIG\Negocios\bin\Release\Negocios.dll
+C:\IDIG\Negocios\bin\Release\Negocios.pdb
+C:\IDIG\Negocios\bin\Release\AcessoBancoDados.dll
+C:\IDIG\Negocios\bin\Release\ObjetoTransferencia.dll
+C:\IDIG\Negocios\bin\Release\AcessoBancoDados.pdb
+C:\IDIG\Negocios\bin\Release\ObjetoTransferencia.pdb
+C:\IDIG\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
+C:\IDIG\Negocios\obj\Release\Negocios.dll
+C:\IDIG\Negocios\obj\Release\Negocios.pdb
+D:\Visual Studio Projetos\Projects\IDIG\Negocios\bin\Release\Negocios.dll
+D:\Visual Studio Projetos\Projects\IDIG\Negocios\bin\Release\Negocios.pdb
+D:\Visual Studio Projetos\Projects\IDIG\Negocios\bin\Release\AcessoBancoDados.dll
+D:\Visual Studio Projetos\Projects\IDIG\Negocios\bin\Release\ObjetoTransferencia.dll
+D:\Visual Studio Projetos\Projects\IDIG\Negocios\bin\Release\AcessoBancoDados.pdb
+D:\Visual Studio Projetos\Projects\IDIG\Negocios\bin\Release\ObjetoTransferencia.pdb
+D:\Visual Studio Projetos\Projects\IDIG\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projetos\Projects\IDIG\Negocios\obj\Release\Negocios.dll
+D:\Visual Studio Projetos\Projects\IDIG\Negocios\obj\Release\Negocios.pdb

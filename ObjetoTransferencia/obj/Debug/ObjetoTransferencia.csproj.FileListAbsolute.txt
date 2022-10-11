@@ -1,0 +1,15 @@
+F:\Visual Studio Projetos\Projects\ibrn\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+F:\Visual Studio Projetos\Projects\ibrn\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+F:\Visual Studio Projetos\Projects\ibrn\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+F:\Visual Studio Projetos\Projects\ibrn\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+F:\Visual Studio Projetos\Projects\ibrn\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projetos\Projects\ibrn\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Visual Studio Projetos\Projects\ibrn\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Visual Studio Projetos\Projects\ibrn\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projetos\Projects\ibrn\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Visual Studio Projetos\Projects\ibrn\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+D:\Visual Studio Projetos\Projects\IDIG\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+D:\Visual Studio Projetos\Projects\IDIG\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+D:\Visual Studio Projetos\Projects\IDIG\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projetos\Projects\IDIG\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+D:\Visual Studio Projetos\Projects\IDIG\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb

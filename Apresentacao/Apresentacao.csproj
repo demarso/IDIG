@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B4326F11-DFB8-499C-99C1-3AA085C5A55F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Apresentacao</RootNamespace>
+    <AssemblyName>Apresentacao</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcaoNaTela.cs" />
+    <Compile Include="frmCongregados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCongregados.Designer.cs">
+      <DependentUpon>frmCongregados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMensagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMensagem.Designer.cs">
+      <DependentUpon>frmMensagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMensagemConsultaTitulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMensagemConsultaTitulo.Designer.cs">
+      <DependentUpon>frmMensagemConsultaTitulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMensagemCunsultaData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMensagemCunsultaData.Designer.cs">
+      <DependentUpon>frmMensagemCunsultaData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPessoaSelecaoInativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPessoaSelecaoInativo.Designer.cs">
+      <DependentUpon>frmPessoaSelecaoInativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogar.Designer.cs">
+      <DependentUpon>frmLogar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPessoaCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPessoaCadastro.Designer.cs">
+      <DependentUpon>frmPessoaCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPessoaSelecao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPessoaSelecao.Designer.cs">
+      <DependentUpon>frmPessoaSelecao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelatAusentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelatAusentes.Designer.cs">
+      <DependentUpon>frmRelatAusentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelatTodosMembros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelatTodosMembros.Designer.cs">
+      <DependentUpon>frmRelatTodosMembros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSobre.Designer.cs">
+      <DependentUpon>frmSobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ibrnDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ibrnDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Logar.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCongregados.resx">
+      <DependentUpon>frmCongregados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMensagem.resx">
+      <DependentUpon>frmMensagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMensagemConsultaTitulo.resx">
+      <DependentUpon>frmMensagemConsultaTitulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMensagemCunsultaData.resx">
+      <DependentUpon>frmMensagemCunsultaData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPessoaSelecaoInativo.resx">
+      <DependentUpon>frmPessoaSelecaoInativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogar.resx">
+      <DependentUpon>frmLogar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPessoaCadastro.resx">
+      <DependentUpon>frmPessoaCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPessoaSelecao.resx">
+      <DependentUpon>frmPessoaSelecao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelatAusentes.resx">
+      <DependentUpon>frmRelatAusentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelatTodosMembros.resx">
+      <DependentUpon>frmRelatTodosMembros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSobre.resx">
+      <DependentUpon>frmSobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="rltAusentes.rdlc" />
+    <EmbeddedResource Include="rltCongregados.rdlc" />
+    <EmbeddedResource Include="rltTodosMembros.rdlc" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ibrnDataSet.xsc">
+      <DependentUpon>ibrnDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ibrnDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ibrnDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ibrnDataSet.xss">
+      <DependentUpon>ibrnDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Negocios\Negocios.csproj">
+      <Project>{c499616a-5718-4f29-8412-0c895884b6fb}</Project>
+      <Name>Negocios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjetoTransferencia\ObjetoTransferencia.csproj">
+      <Project>{08cdc350-2a0f-4a15-9f86-b0fed3728079}</Project>
+      <Name>ObjetoTransferencia</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo2.fw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login2.fw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login1.fw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IdIgreja.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_ibrn_pq.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_ibrn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_ibrn.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

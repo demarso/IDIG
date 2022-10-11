@@ -1,0 +1,111 @@
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\bin\Release\Apresentacao.exe.config
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\bin\Release\Apresentacao.exe
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\bin\Release\Apresentacao.pdb
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\bin\Release\Negocios.dll
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\bin\Release\ObjetoTransferencia.dll
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\bin\Release\AcessoBancoDados.dll
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\bin\Release\Negocios.pdb
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\bin\Release\ObjetoTransferencia.pdb
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\bin\Release\AcessoBancoDados.pdb
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\obj\Release\Apresentacao.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\obj\Release\Apresentacao.frmCongregados.resources
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\obj\Release\Apresentacao.frmPessoaSelecaoInativo.resources
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\obj\Release\Apresentacao.frmLogar.resources
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\obj\Release\ibrn.frmPessoaCadastro.resources
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\obj\Release\Apresentacao.frmPessoaSelecao.resources
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\obj\Release\Apresentacao.frmPrincipal.resources
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\obj\Release\Apresentacao.frmRelatAusentes.resources
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\obj\Release\Apresentacao.frmRelatTodosMembros.resources
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\obj\Release\Apresentacao.Properties.Resources.resources
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\obj\Release\Apresentacao.csproj.GenerateResource.Cache
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\obj\Release\RdlCompile.cache
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\obj\Release\RdlCompile.compiled
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\obj\Release\Apresentacao.exe
+C:\Visual Studio Projetos\Projects\ibrn\Apresentacao\obj\Release\Apresentacao.pdb
+C:\SysIbrn\Apresentacao\bin\Release\Apresentacao.exe.config
+C:\SysIbrn\Apresentacao\obj\Release\Apresentacao.exe
+C:\SysIbrn\Apresentacao\obj\Release\Apresentacao.pdb
+C:\SysIbrn\Apresentacao\bin\Release\Apresentacao.exe
+C:\SysIbrn\Apresentacao\bin\Release\Apresentacao.pdb
+C:\SysIbrn\Apresentacao\bin\Release\Negocios.dll
+C:\SysIbrn\Apresentacao\bin\Release\ObjetoTransferencia.dll
+C:\SysIbrn\Apresentacao\bin\Release\AcessoBancoDados.dll
+C:\SysIbrn\Apresentacao\bin\Release\Negocios.pdb
+C:\SysIbrn\Apresentacao\bin\Release\ObjetoTransferencia.pdb
+C:\SysIbrn\Apresentacao\bin\Release\AcessoBancoDados.pdb
+C:\SysIbrn\Apresentacao\obj\Release\Apresentacao.csprojResolveAssemblyReference.cache
+C:\SysIbrn\Apresentacao\obj\Release\Apresentacao.frmCongregados.resources
+C:\SysIbrn\Apresentacao\obj\Release\Apresentacao.frmPessoaSelecaoInativo.resources
+C:\SysIbrn\Apresentacao\obj\Release\Apresentacao.frmLogar.resources
+C:\SysIbrn\Apresentacao\obj\Release\ibrn.frmPessoaCadastro.resources
+C:\SysIbrn\Apresentacao\obj\Release\Apresentacao.frmPessoaSelecao.resources
+C:\SysIbrn\Apresentacao\obj\Release\Apresentacao.frmPrincipal.resources
+C:\SysIbrn\Apresentacao\obj\Release\Apresentacao.frmRelatAusentes.resources
+C:\SysIbrn\Apresentacao\obj\Release\Apresentacao.frmRelatTodosMembros.resources
+C:\SysIbrn\Apresentacao\obj\Release\Apresentacao.frmSobre.resources
+C:\SysIbrn\Apresentacao\obj\Release\Apresentacao.Properties.Resources.resources
+C:\SysIbrn\Apresentacao\obj\Release\Apresentacao.csproj.GenerateResource.Cache
+C:\SysIbrn\Apresentacao\obj\Release\RdlCompile.cache
+C:\SysIbrn\Apresentacao\obj\Release\RdlCompile.compiled
+C:\IDIG\Apresentacao\bin\Release\Apresentacao.exe.config
+C:\IDIG\Apresentacao\obj\Release\Apresentacao.exe
+C:\IDIG\Apresentacao\obj\Release\Apresentacao.pdb
+C:\IDIG\Apresentacao\bin\Release\Apresentacao.exe
+C:\IDIG\Apresentacao\bin\Release\Apresentacao.pdb
+C:\IDIG\Apresentacao\bin\Release\Negocios.dll
+C:\IDIG\Apresentacao\bin\Release\ObjetoTransferencia.dll
+C:\IDIG\Apresentacao\bin\Release\AcessoBancoDados.dll
+C:\IDIG\Apresentacao\bin\Release\Negocios.pdb
+C:\IDIG\Apresentacao\bin\Release\ObjetoTransferencia.pdb
+C:\IDIG\Apresentacao\bin\Release\AcessoBancoDados.pdb
+C:\IDIG\Apresentacao\obj\Release\Apresentacao.csprojResolveAssemblyReference.cache
+C:\IDIG\Apresentacao\obj\Release\Apresentacao.frmCongregados.resources
+C:\IDIG\Apresentacao\obj\Release\Apresentacao.frmPessoaSelecaoInativo.resources
+C:\IDIG\Apresentacao\obj\Release\Apresentacao.frmLogar.resources
+C:\IDIG\Apresentacao\obj\Release\ibrn.frmPessoaCadastro.resources
+C:\IDIG\Apresentacao\obj\Release\Apresentacao.frmPessoaSelecao.resources
+C:\IDIG\Apresentacao\obj\Release\Apresentacao.frmPrincipal.resources
+C:\IDIG\Apresentacao\obj\Release\Apresentacao.frmRelatAusentes.resources
+C:\IDIG\Apresentacao\obj\Release\Apresentacao.frmRelatTodosMembros.resources
+C:\IDIG\Apresentacao\obj\Release\Apresentacao.frmSobre.resources
+C:\IDIG\Apresentacao\obj\Release\Apresentacao.Properties.Resources.resources
+C:\IDIG\Apresentacao\obj\Release\Apresentacao.csproj.GenerateResource.Cache
+C:\IDIG\Apresentacao\obj\Release\RdlCompile.cache
+C:\IDIG\Apresentacao\obj\Release\RdlCompile.compiled
+H:\Visual Studio Projetos\Projects\ibrn\Apresentacao\bin\Release\Apresentacao.exe.config
+H:\Visual Studio Projetos\Projects\ibrn\Apresentacao\obj\Release\Apresentacao.exe
+H:\Visual Studio Projetos\Projects\ibrn\Apresentacao\obj\Release\Apresentacao.pdb
+C:\IDIG\Apresentacao\obj\Release\Apresentacao.frmMensagem.resources
+C:\IDIG\Apresentacao\obj\Release\Apresentacao.frmMensagemConsultaTitulo.resources
+C:\IDIG\Apresentacao\obj\Release\Apresentacao.frmMensagemCunsultaData.resources
+G:\Visual Studio Projetos\Projects\IDIG\Apresentacao\bin\Release\Apresentacao.exe.config
+G:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\Apresentacao.exe
+G:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\Apresentacao.pdb
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\bin\Release\Apresentacao.exe.config
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\Apresentacao.exe
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\Apresentacao.pdb
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\bin\Release\Apresentacao.exe
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\bin\Release\Apresentacao.pdb
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\bin\Release\Negocios.dll
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\bin\Release\ObjetoTransferencia.dll
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\bin\Release\AcessoBancoDados.dll
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\bin\Release\Negocios.pdb
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\bin\Release\ObjetoTransferencia.pdb
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\bin\Release\AcessoBancoDados.pdb
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\Apresentacao.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\Apresentacao.frmCongregados.resources
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\Apresentacao.frmMensagem.resources
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\Apresentacao.frmMensagemConsultaTitulo.resources
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\Apresentacao.frmMensagemCunsultaData.resources
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\Apresentacao.frmPessoaSelecaoInativo.resources
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\Apresentacao.frmLogar.resources
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\ibrn.frmPessoaCadastro.resources
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\Apresentacao.frmPessoaSelecao.resources
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\Apresentacao.frmPrincipal.resources
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\Apresentacao.frmRelatAusentes.resources
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\Apresentacao.frmRelatTodosMembros.resources
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\Apresentacao.frmSobre.resources
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\Apresentacao.Properties.Resources.resources
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\Apresentacao.csproj.GenerateResource.Cache
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\RdlCompile.cache
+D:\Visual Studio Projetos\Projects\IDIG\Apresentacao\obj\Release\RdlCompile.compiled

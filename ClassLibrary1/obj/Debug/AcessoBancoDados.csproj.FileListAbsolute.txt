@@ -1,0 +1,30 @@
+F:\Visual Studio Projetos\Projects\ibrn\ClassLibrary1\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projetos\Projects\ibrn\ClassLibrary1\bin\Debug\AcessoBancoDados.dll.config
+F:\Visual Studio Projetos\Projects\ibrn\ClassLibrary1\bin\Debug\AcessoBancoDados.dll
+F:\Visual Studio Projetos\Projects\ibrn\ClassLibrary1\bin\Debug\AcessoBancoDados.pdb
+F:\Visual Studio Projetos\Projects\ibrn\ClassLibrary1\obj\Debug\AcessoBancoDados.dll
+F:\Visual Studio Projetos\Projects\ibrn\ClassLibrary1\obj\Debug\AcessoBancoDados.pdb
+C:\Visual Studio Projetos\Projects\ibrn\ClassLibrary1\bin\Debug\AcessoBancoDados.dll.config
+C:\Visual Studio Projetos\Projects\ibrn\ClassLibrary1\bin\Debug\AcessoBancoDados.dll
+C:\Visual Studio Projetos\Projects\ibrn\ClassLibrary1\bin\Debug\AcessoBancoDados.pdb
+C:\Visual Studio Projetos\Projects\ibrn\ClassLibrary1\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projetos\Projects\ibrn\ClassLibrary1\obj\Debug\AcessoBancoDados.dll
+C:\Visual Studio Projetos\Projects\ibrn\ClassLibrary1\obj\Debug\AcessoBancoDados.pdb
+H:\Visual Studio Projetos\Projects\ibrn\ClassLibrary1\bin\Debug\AcessoBancoDados.dll.config
+H:\Visual Studio Projetos\Projects\ibrn\ClassLibrary1\bin\Debug\AcessoBancoDados.dll
+H:\Visual Studio Projetos\Projects\ibrn\ClassLibrary1\bin\Debug\AcessoBancoDados.pdb
+H:\Visual Studio Projetos\Projects\ibrn\ClassLibrary1\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+H:\Visual Studio Projetos\Projects\ibrn\ClassLibrary1\obj\Debug\AcessoBancoDados.dll
+H:\Visual Studio Projetos\Projects\ibrn\ClassLibrary1\obj\Debug\AcessoBancoDados.pdb
+C:\IDIG\ClassLibrary1\bin\Debug\AcessoBancoDados.dll.config
+C:\IDIG\ClassLibrary1\bin\Debug\AcessoBancoDados.dll
+C:\IDIG\ClassLibrary1\bin\Debug\AcessoBancoDados.pdb
+C:\IDIG\ClassLibrary1\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\IDIG\ClassLibrary1\obj\Debug\AcessoBancoDados.dll
+C:\IDIG\ClassLibrary1\obj\Debug\AcessoBancoDados.pdb
+D:\Visual Studio Projetos\Projects\IDIG\ClassLibrary1\bin\Debug\AcessoBancoDados.dll.config
+D:\Visual Studio Projetos\Projects\IDIG\ClassLibrary1\bin\Debug\AcessoBancoDados.dll
+D:\Visual Studio Projetos\Projects\IDIG\ClassLibrary1\bin\Debug\AcessoBancoDados.pdb
+D:\Visual Studio Projetos\Projects\IDIG\ClassLibrary1\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projetos\Projects\IDIG\ClassLibrary1\obj\Debug\AcessoBancoDados.dll
+D:\Visual Studio Projetos\Projects\IDIG\ClassLibrary1\obj\Debug\AcessoBancoDados.pdb

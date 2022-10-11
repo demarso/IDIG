@@ -1,0 +1,54 @@
+F:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Debug\Negocios.dll
+F:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Debug\Negocios.pdb
+F:\Visual Studio Projetos\Projects\ibrn\Negocios\obj\Debug\Negocios.dll
+F:\Visual Studio Projetos\Projects\ibrn\Negocios\obj\Debug\Negocios.pdb
+F:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Debug\AcessoBancoDados.dll
+F:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Debug\ObjetoTransferencia.dll
+F:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Debug\AcessoBancoDados.pdb
+F:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Debug\ObjetoTransferencia.pdb
+F:\Visual Studio Projetos\Projects\ibrn\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Debug\Negocios.dll
+C:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Debug\Negocios.pdb
+C:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Visual Studio Projetos\Projects\ibrn\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projetos\Projects\ibrn\Negocios\obj\Debug\Negocios.dll
+C:\Visual Studio Projetos\Projects\ibrn\Negocios\obj\Debug\Negocios.pdb
+C:\SysIbrn\Negocios\bin\Debug\Negocios.dll
+C:\SysIbrn\Negocios\bin\Debug\Negocios.pdb
+C:\SysIbrn\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\SysIbrn\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\SysIbrn\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\SysIbrn\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\SysIbrn\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\SysIbrn\Negocios\obj\Debug\Negocios.dll
+C:\SysIbrn\Negocios\obj\Debug\Negocios.pdb
+C:\IDIG\Negocios\bin\Debug\Negocios.dll
+C:\IDIG\Negocios\bin\Debug\Negocios.pdb
+C:\IDIG\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\IDIG\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\IDIG\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\IDIG\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\IDIG\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\IDIG\Negocios\obj\Debug\Negocios.dll
+C:\IDIG\Negocios\obj\Debug\Negocios.pdb
+H:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Debug\Negocios.dll
+H:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Debug\Negocios.pdb
+H:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Debug\AcessoBancoDados.dll
+H:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Debug\ObjetoTransferencia.dll
+H:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Debug\AcessoBancoDados.pdb
+H:\Visual Studio Projetos\Projects\ibrn\Negocios\bin\Debug\ObjetoTransferencia.pdb
+H:\Visual Studio Projetos\Projects\ibrn\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+H:\Visual Studio Projetos\Projects\ibrn\Negocios\obj\Debug\Negocios.dll
+H:\Visual Studio Projetos\Projects\ibrn\Negocios\obj\Debug\Negocios.pdb
+D:\Visual Studio Projetos\Projects\IDIG\Negocios\bin\Debug\Negocios.dll
+D:\Visual Studio Projetos\Projects\IDIG\Negocios\bin\Debug\Negocios.pdb
+D:\Visual Studio Projetos\Projects\IDIG\Negocios\bin\Debug\AcessoBancoDados.dll
+D:\Visual Studio Projetos\Projects\IDIG\Negocios\bin\Debug\ObjetoTransferencia.dll
+D:\Visual Studio Projetos\Projects\IDIG\Negocios\bin\Debug\AcessoBancoDados.pdb
+D:\Visual Studio Projetos\Projects\IDIG\Negocios\bin\Debug\ObjetoTransferencia.pdb
+D:\Visual Studio Projetos\Projects\IDIG\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projetos\Projects\IDIG\Negocios\obj\Debug\Negocios.dll
+D:\Visual Studio Projetos\Projects\IDIG\Negocios\obj\Debug\Negocios.pdb

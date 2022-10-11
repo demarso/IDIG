@@ -1,0 +1,10 @@
+C:\Visual Studio Projetos\Projects\ibrn\ObjetoTransferencia\bin\Release\ObjetoTransferencia.dll
+C:\Visual Studio Projetos\Projects\ibrn\ObjetoTransferencia\bin\Release\ObjetoTransferencia.pdb
+C:\Visual Studio Projetos\Projects\ibrn\ObjetoTransferencia\obj\Release\ObjetoTransferencia.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projetos\Projects\ibrn\ObjetoTransferencia\obj\Release\ObjetoTransferencia.dll
+C:\Visual Studio Projetos\Projects\ibrn\ObjetoTransferencia\obj\Release\ObjetoTransferencia.pdb
+C:\IDIG\ObjetoTransferencia\bin\Release\ObjetoTransferencia.dll
+C:\IDIG\ObjetoTransferencia\bin\Release\ObjetoTransferencia.pdb
+C:\IDIG\ObjetoTransferencia\obj\Release\ObjetoTransferencia.csprojResolveAssemblyReference.cache
+C:\IDIG\ObjetoTransferencia\obj\Release\ObjetoTransferencia.dll
+C:\IDIG\ObjetoTransferencia\obj\Release\ObjetoTransferencia.pdb
